@@ -10,4 +10,6 @@ int main(){
     /*if we did not initially define the data type data type depends on the data type of dividend whatever the dividend the result will be of same data type*/
     cout<<2/5<<endl;
     cout<<2./5<<endl;
+    cout<<a*b<<endl;
+    cout<<a%b<<endl;
 };
