@@ -26,6 +26,6 @@ Here’s a list of topics I’ve covered so far:
 - **Searching and Sorting**
 
 ---
-
+![DSA Animation](./Zach-Galifianakis-Algorithm-GIF-by-Product-Hunt.gif)
 
 
