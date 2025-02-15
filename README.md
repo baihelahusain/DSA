@@ -28,11 +28,6 @@ Here’s a list of topics I’ve covered so far:
 
 ---
 
-# **Data Structures and Algorithms (DSA) Repository** 🚀
-
-Welcome to my DSA repository! Here, I am learning and implementing **Data Structures and Algorithms** in C++ following **Love Babbar's DSA Series**.
-
----
 
 
 
