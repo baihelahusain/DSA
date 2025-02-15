@@ -34,17 +34,6 @@ Welcome to my DSA repository! Here, I am learning and implementing **Data Struct
 
 ---
 
-## **Visualization** 🎥
 
-Here’s a fun visualization of algorithms in action:
-
-![DSA Animation](https://raw.githubusercontent.com/your-username/your-repo/main/Zach-Galifianakis-Algorithm-GIF-by-Product-Hunt.gif)
-
----
-
-
----
-
-![DSA Animation](https://raw.githubusercontent.com/baihelahusain/DSA/main/Zach-Galifianakis-Algorithm-GIF-by-Product-Hunt.gif)
 
 
