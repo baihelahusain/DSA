@@ -14,7 +14,7 @@ This repository contains **C++ implementations** of various data structures and 
 
 Here’s a list of topics I’ve covered so far:
 
---**Patterns**
+- **Patterns**
 - **Arrays**
 - **Strings**
 - **Linked Lists**
