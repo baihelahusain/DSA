@@ -14,6 +14,7 @@ This repository contains **C++ implementations** of various data structures and 
 
 Here’s a list of topics I’ve covered so far:
 
+--**Patterns**
 - **Arrays**
 - **Strings**
 - **Linked Lists**
@@ -41,18 +42,6 @@ Here’s a fun visualization of algorithms in action:
 
 ---
 
-## **Topics Covered** 📚
-
-- **Arrays**
-- **Strings**
-- **Linked Lists**
-- **Stacks**
-- **Queues**
-- **Trees**
-- **Graphs**
-- **Dynamic Programming**
-- **Bit Manipulation**
-- **Searching and Sorting**
 
 ---
 
