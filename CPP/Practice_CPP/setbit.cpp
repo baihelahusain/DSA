@@ -1,0 +1,33 @@
+#include<iostream>
+using namespace std;
+
+int setbit(int a, int b) {
+    int cnt = 0;
+
+    while (a > 0) {
+        if (a & 1) { 
+        }
+        a = a >> 1; 
+    }
+
+   
+    while (b > 0) {
+        if (b & 1) { 
+            cnt++;
+        }
+        b = b >> 1; // Right shift 'b' to check the next bit
+    }
+
+    return cnt;
+}
+
+int main() {
+    int d, e;
+    cout << "Enter two numbers: ";
+    cin >> d >> e;
+
+    // Call the function to count set bits
+    cout << "Total set bits: " << setbit(d, e) << endl;
+
+    return 0;
+}
