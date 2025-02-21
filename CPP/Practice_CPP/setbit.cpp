@@ -16,7 +16,7 @@ int setbit(int a, int b) {
         if (b & 1) { 
             cnt++;
         }
-        b = b >> 1; // Right shift 'b' to check the next bit
+        b = b >> 1; 
     }
 
     return cnt;
@@ -27,7 +27,7 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> d >> e;
 
-    // Call the function to count set bits
+    
     cout << "Total set bits: " << setbit(d, e) << endl;
 
     return 0;
