@@ -6,6 +6,7 @@ int setbit(int a, int b) {
 
     while (a > 0) {
         if (a & 1) { 
+            cnt++;
         }
         a = a >> 1; 
     }
