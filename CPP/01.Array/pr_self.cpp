@@ -1,3 +1,4 @@
+/*this is brute forch approach what we can solve this using prefix and suffix which did in leet code : Product of an array except self*/
 #include <iostream>
 #include<vector>
 using namespace std;
