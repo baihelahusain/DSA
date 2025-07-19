@@ -23,8 +23,6 @@ Here’s a list of topics I’ve covered so far:
 - **Trees**
 - **Graphs**
 - **Dynamic Programming**
-- **Bit Manipulation**
-- **Searching and Sorting**
   
 ---
 ## **Course Flow**🌊🌀
