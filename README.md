@@ -1,6 +1,6 @@
 # **Data Structures and Algorithms (DSA) Repository** 🚀
 
-Welcome to my DSA repository! Here, I am learning and implementing **Data Structures and Algorithms** in C++ following **Love Babbar's, Apna College and Strivers DSA Series**. This repository serves as a personal progress tracker and a resource for anyone interested in learning DSA.
+Welcome to my DSA repository! Here, I am learning and implementing **Data Structures and Algorithms** in C++ following **Love Babbar's, and Strivers DSA Series**. This repository serves as a personal progress tracker and a resource for anyone interested in learning DSA.
 
 ---
 
