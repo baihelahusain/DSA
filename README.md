@@ -17,13 +17,13 @@ Here’s a list of topics I’ve covered so far:
 - **Patterns**
 - **Arrays**
 - **Strings**
+- **Recursion**
 - **Linked Lists**
 - **Stacks**
 - **Queues**
 - **Trees**
 - **Graphs**
-- **Dynamic Programming**
-  
+    
 ---
 ## **Course Flow**🌊🌀
 
